@@ -1,3 +1,5 @@
 __pycache__
 *.db
 token.txt
+fetchapi.js
+test.html
